@@ -1,0 +1,39 @@
+/**
+Author: 松鼠大大
+Author URL: https://doge.uk/
+Version: 1.1.0
+@requires useragent.css
+*/
+
+.ua-icon {
+    display: inline-block;
+    padding: .2em .6em .3em;
+    /*box-shadow: 0 0 8px #924cda;*/
+    color: #fff;
+    font-size: 75%;
+    border-radius: .25em;
+	margin-left: 5px;
+	max-width: 130px;
+	opacity: 0.8;
+	vertical-align: middle;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	cursor: pointer;
+}
+
+.iconfontua {
+	font-size: inherit;
+	text-rendering: auto;
+	display: inline-block;
+
+}
+
+.ua-hover {
+	opacity: 0;
+	transition: 1s;
+}
+
+div.comment-body:hover .ua-hover {
+    opacity: 0.8;
+}

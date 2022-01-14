@@ -1,0 +1,56 @@
+[
+    {
+        "name": "ipip/db",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ipipdotnet/ipdb-php.git",
+            "reference": "af42bf28b37dc76beccd7bbe2b0b0572e21f42cf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ipipdotnet/ipdb-php/zipball/af42bf28b37dc76beccd7bbe2b0b0572e21f42cf",
+            "reference": "af42bf28b37dc76beccd7bbe2b0b0572e21f42cf",
+            "shasum": "",
+            "mirrors": [
+                {
+                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                    "preferred": true
+                }
+            ]
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2018-11-01T08:07:04+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ipip\\db\\": "src/ipip/db/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "IPIP.net",
+                "email": "frk@ipip.net",
+                "homepage": "https://www.ipip.net"
+            }
+        ],
+        "description": "IPIP.net officially supported IP database ipdb format parsing library",
+        "homepage": "https://www.ipip.net",
+        "keywords": [
+            "IP",
+            "geo",
+            "geoip",
+            "geolocation",
+            "ipdb",
+            "ipip.net"
+        ]
+    }
+]
