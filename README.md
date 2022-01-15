@@ -137,3 +137,26 @@ https://jsd.sorkai.com/kaiassets/8.2.1/
 将`/usr/themes/handsome/libs/CDN.php`中你正在使用的公共CDN库中的`"vditor"`的值改为`"https://jsd.sorkai.com/web/npm/vditor@3.8.10"`如图第167行(如果使用其它公共CDN行号会不同，请自行判断)↓
 
 ![](https://img.kai233.top/picgo/202201151800526.png)
+
+### 其他资源支持
+
+#### Andela
+
+Andela Website Project
+
+所处位置：[/web/gh/Andela-master](/web/gh/Andela-master)
+
+#### mikutap
+
+A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap
+
+所处位置：[/web/others/mikutap](/web/others/mikutap)
+
+使用方法：
+
+* 直接访问：[https://jsd.sorkai.com/web/others/mikutap/index.html](https://jsd.sorkai.com/web/others/mikutap/index.html)
+
+* 私有部署：下载资源包部署至服务器，因为所有资源均可从本项目加载，所以理论只用部署`index.html`即可
+
+  资源包下载：https://jsd.sorkai.com/web/others/mikutap/mikutap.zip
+

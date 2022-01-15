@@ -1,0 +1,54 @@
+.rounded {
+	  background: #ff1493;
+	  background-image: -webkit-linear-gradient(top, #ff1493, #e01283);
+	  background-image: -moz-linear-gradient(top, #ff1493, #e01283);
+	  background-image: -ms-linear-gradient(top, #ff1493, #e01283);
+	  background-image: -o-linear-gradient(top, #ff1493, #e01283);
+	  background-image: linear-gradient(to bottom, #ff1493, #e01283);
+	  -webkit-border-radius: 13;
+	  -moz-border-radius: 13;
+	  border-radius: 13px;
+	  font-family: Georgia;
+	  color: #ffffff;
+	  font-size: 20px;
+	  padding: 5px 10px;
+	  text-decoration: none;
+}
+
+.rounded:hover {
+	  background: #e66384;
+	  background-image: -webkit-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -moz-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -ms-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -o-linear-gradient(top, #e66384, #ff1493);
+	  background-image: linear-gradient(to bottom, #e66384, #ff1493);
+	  text-decoration: none;
+}
+.normal{
+	  background: #cc708a;
+	  background-image: -webkit-linear-gradient(top, #cc708a, #b5103c);
+	  background-image: -moz-linear-gradient(top, #cc708a, #b5103c);
+	  background-image: -ms-linear-gradient(top, #cc708a, #b5103c);
+	  background-image: -o-linear-gradient(top, #cc708a, #b5103c);
+	  background-image: linear-gradient(to bottom, #cc708a, #b5103c);
+	  -webkit-border-radius: 7;
+	  -moz-border-radius: 7;
+	  border-radius: 7px;
+	  font-family: Georgia;
+	  color: #ffffff;
+	  font-size: 20px;
+	  padding: 5px 10px;
+	  text-decoration: none;
+	  -webkit-border-radius: 4;
+	  -moz-border-radius: 4;
+	  border-radius: 4px;
+	}
+	.normal:hover{
+	  background: #e66384;
+	  background-image: -webkit-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -moz-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -ms-linear-gradient(top, #e66384, #ff1493);
+	  background-image: -o-linear-gradient(top, #e66384, #ff1493);
+	  background-image: linear-gradient(to bottom, #e66384, #ff1493);
+	  text-decoration: none;
+	}

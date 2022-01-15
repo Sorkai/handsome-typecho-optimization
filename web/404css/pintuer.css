@@ -1681,8 +1681,8 @@ th {
 
 @font-face {
 	font-family: 'FontAwesome';
-	src: url('https://cdn.jsdelivr.net/gh/generalgmt/Andela@latest/font-awesome-4.1.0/fonts/fontawesome-webfont.eot?v=4.1.0');
-	src: url('https://cdn.jsdelivr.net/gh/generalgmt/Andela@latest/font-awesome-4.1.0/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/generalgmt/Andela@latest/font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('https://cdn.jsdelivr.net/gh/generalgmt/Andela@latest/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('https://cdn.jsdelivr.net/gh/generalgmt/Andela@latest/font-awesome-4.1.0/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+	src: url('https://jsd.sorkai.com/web/gh/Andela-master/font-awesome-4.1.0/fonts/fontawesome-webfont.eot?v=4.1.0');
+	src: url('https://jsd.sorkai.com/web/gh/Andela-master/font-awesome-4.1.0/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('https://jsd.sorkai.com/web/gh/Andela-master/font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('https://jsd.sorkai.com/web/gh/Andela-master/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('https://jsd.sorkai.com/web/gh/Andela-master/font-awesome-4.1.0/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
