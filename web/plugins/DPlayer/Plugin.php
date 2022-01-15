@@ -45,7 +45,7 @@ class DPlayer_Plugin implements Typecho_Plugin_Interface
     public static function playerHeader()
     {
         echo <<<EOF
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.css" />
+<link rel="stylesheet" type="text/css" href="https://jsd.sorkai.com/web/npm/dplayer/dist/DPlayer.min.css" />
 EOF;
     }
 
@@ -55,7 +55,7 @@ EOF;
      */
     public static function playerFooter()
     {
-        $url = "https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/DPlayer";
+        $url = "https://jsd.sorkai.com/web/plugins/DPlayer";
         if (Typecho_Widget::widget('Widget_Options')->plugin('DPlayer')->hls) {
             echo "<script type=\"text/javascript\" src=\"$url/plugin/hls.min.js\"></script>\n";
         }
@@ -63,7 +63,7 @@ EOF;
             echo "<script type=\"text/javascript\" src=\"$url/plugin/flv.min.js\"></script>\n";
         }
         echo <<<EOF
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js"></script>
+<script type="text/javascript" src="https://jsd.sorkai.com/web/npm/dplayer/dist/DPlayer.min.js"></script>
 <script type="text/javascript" src="$url/assets/player.js"></script>
 EOF;
     }
@@ -166,7 +166,7 @@ EOF;
 
     public static function addEditorButton()
     {
-        $dir = "https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/DPlayer/assets/editor.js";
+        $dir = "https://jsd.sorkai.com/web/plugins/DPlayer/assets/editor.js";
         echo "<script type=\"text/javascript\" src=\"{$dir}\"></script>";
     }
 

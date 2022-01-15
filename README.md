@@ -58,3 +58,16 @@ https://jsd.sorkai.com/kaiassets/版本号/
 https://jsd.sorkai.com/kaiassets/8.2.1/
 ```
 
+***
+
+### 插件静态资源加速
+
+#### DPlayer
+
+当前版本：1.1.0
+
+使用方法：
+
+下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
+
+下载地址：[/web/plugins/1-package/DPlayer_1.1.0.zip](/web/plugins/1-package/DPlayer_1.1.0.zip)
