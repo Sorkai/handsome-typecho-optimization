@@ -79,7 +79,7 @@ class JWPlayer_Plugin implements Typecho_Plugin_Interface
 	{
 		$options = Helper::options();
 		$security = Helper::security();
-		$plugurl = 'https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/JWPlayer';
+		$plugurl = 'https://jsd.sorkai.com/web/plugins/JWPlayer';
 
 		//格式化默认配色
 		$cset = array();

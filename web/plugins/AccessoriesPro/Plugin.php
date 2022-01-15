@@ -579,7 +579,7 @@ class AccessoriesPro_Plugin implements Typecho_Plugin_Interface
     public static function footer($archive)
     {
         if (Helper::options()->plugin('AccessoriesPro')->enableBuildInCss) {
-            echo '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/AccessoriesPro/css/content.css">';
+            echo '<link rel="stylesheet" href="https://jsd.sorkai.com/web/plugins/AccessoriesPro/css/content.css">';
         }
     }
     /**

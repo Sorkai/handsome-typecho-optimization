@@ -47,7 +47,7 @@ class ColorfulTags_Plugin implements Typecho_Plugin_Interface {
 		$speed = $options->plugin('ColorfulTags')->speed;
 		$is_pjax = $options->plugin('ColorfulTags')->is_pjax;
 		$is_post = $archive->parameter->type=='post';
-		$static_src = 'https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/ColorfulTags/static';
+		$static_src = 'https://jsd.sorkai.com/web/plugins/ColorfulTags/static';
 		
 		if($is_pjax) {
 			if($is_post||!$is_3d){

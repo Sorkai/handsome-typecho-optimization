@@ -12,7 +12,7 @@ CDN开放所有人使用(非商业、不滥用)，采用境内外双地域的自
 
 此项目开放提交现有资源以外的其它Typecho静态资源、Handsome主题静态资源、常用插件静态资源、其它常用js、css、字体、svg等静态资源，如有需要请提出Issues。
 
-**注意：提交rp和is请到上方项目地址(GitHub仓库)提交！！**
+**注意：提交rp和Issues请到上方项目地址(GitHub仓库)提交！！**
 
 ***
 
@@ -62,6 +62,8 @@ https://jsd.sorkai.com/kaiassets/8.2.1/
 
 ### 插件静态资源加速
 
+**需要更新插件请提Issues**
+
 #### DPlayer
 
 当前版本：1.1.0
@@ -71,3 +73,33 @@ https://jsd.sorkai.com/kaiassets/8.2.1/
 下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
 
 下载地址：[/web/plugins/1-package/DPlayer_1.1.0.zip](/web/plugins/1-package/DPlayer_1.1.0.zip)
+
+#### JWPlayer
+
+当前版本：1.0.9
+
+使用方法：
+
+下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
+
+下载地址：[/web/plugins/1-package/JWPlayer_1.0.9.zip](/web/plugins/1-package/JWPlayer_1.0.9.zip)
+
+#### ColorfulTags
+
+当前版本：1.6
+
+使用方法：
+
+下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
+
+下载地址：[/web/plugins/1-package/ColorfulTags_1.6.zip](/web/plugins/1-package/ColorfulTags_1.6.zip)
+
+#### ColorfulTags
+
+当前版本：1.1.5b2
+
+使用方法：
+
+下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
+
+下载地址：[/web/plugins/1-package/AccessoriesPro_1.1.5b2.zip](/web/plugins/1-package/AccessoriesPro_1.1.5b2.zip)
