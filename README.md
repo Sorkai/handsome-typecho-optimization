@@ -134,6 +134,6 @@ https://jsd.sorkai.com/kaiassets/8.2.1/
 
 使用方法：
 
-将`/usr/themes/handsome/libs/CDN.php`中你正在使用的公共CDN库中的`"vditor"`的值改为`"https://jsd.kai233.top/web/npm/vditor@3.8.10"`如图第167行(如果使用其它公共CDN行号会不同，请自行判断)↓
+将`/usr/themes/handsome/libs/CDN.php`中你正在使用的公共CDN库中的`"vditor"`的值改为`"https://jsd.sorkai.com/web/npm/vditor@3.8.10"`如图第167行(如果使用其它公共CDN行号会不同，请自行判断)↓
 
 ![](https://img.kai233.top/picgo/202201151800526.png)
