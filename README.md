@@ -103,3 +103,37 @@ https://jsd.sorkai.com/kaiassets/8.2.1/
 下载修改过的插件并安装其可自动启用，或自行修改插件中php文件内使用的静态资源地址
 
 下载地址：[/web/plugins/1-package/AccessoriesPro_1.1.5b2.zip](/web/plugins/1-package/AccessoriesPro_1.1.5b2.zip)
+
+### 主题其他静态资源
+
+#### 前言
+
+**对主题中的文件进行修改需要每次更新主题均进行一次**
+
+**推荐将主题公共CDN库设置为字节跳动CDN！！！**
+
+方法：在 **控制台**-**外观**-**设置外观**-**速度优化**-**选择公共CDN库** 中选择 **字节跳动CDN**
+
+![](https://img.kai233.top/picgo/202201151752328.png)
+
+#### mathjax
+
+当前版本：3.2.0
+
+使用方法：
+
+将`/usr/themes/handsome/libs/CDN.php`中你正在使用的公共CDN库中的`"mathjax_svg"`的值改为`"https://jsd.sorkai.com/web/npm/mathjax@3/es5/tex-mml-chtml.min.js"`如图第166行(如果使用其它公共CDN行号会不同，请自行判断)↓
+
+![](https://img.kai233.top/picgo/202201151748133.png)
+
+#### vditor
+
+当前版本：3.8.10
+
+历查看历史版本：[/web/npm](/web/npm)  中搜索 vditor
+
+使用方法：
+
+将`/usr/themes/handsome/libs/CDN.php`中你正在使用的公共CDN库中的`"vditor"`的值改为`"https://jsd.kai233.top/web/npm/vditor@3.8.10"`如图第167行(如果使用其它公共CDN行号会不同，请自行判断)↓
+
+![](https://img.kai233.top/picgo/202201151800526.png)
