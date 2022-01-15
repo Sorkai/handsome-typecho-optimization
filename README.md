@@ -160,3 +160,12 @@ A Mainland China friendly and indenpendent version extracted from https://aidn.j
 
   资源包下载：https://jsd.sorkai.com/web/others/mikutap/mikutap.zip
 
+#### 一个好看的后台登录页面
+
+不记得原项目在哪了，欢迎补充
+
+![](https://img.kai233.top/picgo/202201151948366.png)
+
+所处位置：[web/admin](web/admin)
+
+使用方法：下载 [/web/admin/login.php](/web/admin/login.php) 放到 Typecho 的 `/admin` 目录中覆盖

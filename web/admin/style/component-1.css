@@ -11,7 +11,7 @@
 
 .container .large-header {
 	/* background-image: url('./bg.jpg'); */
-	background-image: url('https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/bg.jpg');
+	background-image: url('https://jsd.sorkai.com/web/admin/style/bg.jpg');
 }
 .logo_box{
 	width: 400px;
@@ -57,7 +57,7 @@
 .u_user{
 	width: 25px;
 	height: 25px;
-	background: url(https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/login_ico.png);
+	background: url(https://jsd.sorkai.com/web/admin/style/login_ico.png);
 	background-position:  -125px 0;
 	position: absolute;
 	margin: 10px 13px;
@@ -65,7 +65,7 @@
 .us_uer{
 	width: 25px;
 	height: 25px;
-	background-image: url(https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/login_ico.png);
+	background-image: url(https://jsd.sorkai.com/web/admin/style/login_ico.png);
 	background-position: -125px -34px;
 	position: absolute;
 	margin: 10px 13px;

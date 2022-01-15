@@ -17,11 +17,11 @@ $bodyClass = 'body-100';
 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Login</title>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/normalize.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/admin.css">
+<link rel="stylesheet" type="text/css" href="https://jsd.sorkai.com/web/admin/style/normalize.css">
+<link rel="stylesheet" type="text/css" href="https://jsd.sorkai.com/web/admin/style/admin.css">
 
 <!--必要样式-->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/component.css">
+<link rel="stylesheet" type="text/css" href="https://jsd.sorkai.com/web/admin/style/component.css">
 <!--[if IE]>
 <script src="js/html5.js"></script>
 <![endif]-->
@@ -59,10 +59,10 @@ $bodyClass = 'body-100';
 				</div>
 			</div>
 		</div><!-- /container -->
-		<script src="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/TweenLite.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/EasePack.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/rAF.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/wangkai6688/web/admin/style/sky.js"></script>
+		<script src="https://jsd.sorkai.com/web/admin/style/TweenLite.js"></script>
+		<script src="https://jsd.sorkai.com/web/admin/style/EasePack.js"></script>
+		<script src="https://jsd.sorkai.com/web/admin/style/rAF.js"></script>
+		<script src="https://jsd.sorkai.com/web/admin/style/sky.js"></script>
 </body></html>
 <?php 
 include 'common-js.php';
