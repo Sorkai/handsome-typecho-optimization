@@ -18,7 +18,7 @@ CDN开放所有人使用(非商业、不滥用)，采用境内外双地域的自
 
 常见资源使用方法
 
-在为特殊说明的情况下均可以通过`https://jsd.sorkai.com/`+本项目中的路径进行使用
+在未特殊说明的情况下均可以通过`https://jsd.sorkai.com/`+本项目中的路径进行使用
 
 例如：`https://jsd.sorkai.com/web/3RVidO.th.jpg` 对应web文件夹下的3RVidO.th.jpg图片
 
