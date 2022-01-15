@@ -158,7 +158,7 @@ A Mainland China friendly and indenpendent version extracted from https://aidn.j
 
 * 私有部署：下载资源包部署至服务器，因为所有资源均可从本项目加载，所以理论只用部署`index.html`即可
 
-  资源包下载：https://jsd.sorkai.com/web/others/mikutap/mikutap.zip
+  资源包下载：[/web/others/mikutap/mikutap.zip](/web/others/mikutap/mikutap.zip)
 
 #### 一个好看的后台登录页面
 
