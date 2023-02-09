@@ -1,0 +1,62 @@
+/*样式修改*/
+.markdown-body img.emoji {
+  height: 24px !important;
+  width: 24px !important
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: #888!important;
+}
+
+.markdown-body h2 {
+  font-size: 1.75em !important;
+  line-height: 1.225 !important;
+  padding: 0 0 .3em 0 !important
+}
+.markdown-body.editormd-preview-container ul {
+  list-style: initial
+}
+.markdown-body.editormd-preview-container ol {
+  margin-left: 0 !important
+}
+
+.editormd-dialog {
+  height: auto!important;
+}
+
+.edit-comments-php .wp-editor-container.editormd.editormd-vertical {
+  width: 100%!important;
+}
+
+.edit-comments-php .CodeMirror.cm-s-default.CodeMirror-wrap {
+  width: 50%!important;
+  margin-left: 0!important;
+}
+
+.edit-comments-php .editormd-preview {
+  width: 50%!important;
+  top: 40px;
+}
+
+.edit-comments-php .CodeMirror-linenumbers {
+  box-sizing: border-box!important;
+  -moz-box-sizing: border-box!important;
+}
+
+.edit-comments-php .CodeMirror-gutters {
+  left: 0;
+}
+
+.edit-comments-php .wp-editor-container.editormd #qt_replycontent_toolbar {
+  display: none;
+}
+
+/* 后台文章编辑器底栏样式 */
+#poststuff #post-status-info {
+  margin-top: -15px;
+  border: 1px solid #ddd;
+  padding: 2px 4px;
+  width: calc(100% + 2px);
+}
